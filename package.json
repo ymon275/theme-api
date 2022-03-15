@@ -1,0 +1,15 @@
+{
+  "name": "theme-api",
+  "version": "1.0.0",
+  "description": "A database of themes",
+  "main": "index.js",
+  "scripts": {
+    "serve": "nodemon .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jean Morrison",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
