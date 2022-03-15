@@ -60,4 +60,4 @@ text assigns the color of the text on the buttons with a hex code
 transparent is a boolean value indicating whether the calculator, _everything but the text_, should be transparent
 
 ## Deployment
-Deployed at https://theme-api1.herokuapp.com
+Deployed at https://theme-api5.herokuapp.com
