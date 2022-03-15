@@ -10,7 +10,8 @@ The json file goes
 {
     "themes": [
         {theme1},
-        {theme2}
+        {theme2},
+        ...
     ]
 }
 ```
@@ -18,7 +19,7 @@ There are seven properties to a theme
 
 #### theme
 
-`theme: "black"`
+`theme: "dark"`
 
 theme describes the theme
 
